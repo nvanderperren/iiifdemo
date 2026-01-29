@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "8c910523-0563-4406-a9dc-e736d526164a": {
+      "label": "AV File 1",
+      "file_url": "https://fixtures.iiif.io/audio/indiana/mahler-symphony-3/CD1/medium/128Kbps.mp4",
+      "duration": 1985.024,
+      "file_type": "Audio"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-01-29T17:15:54.966Z",
+  "created_by": "nvanderperren",
+  "label": "Gustav Mahler, Symphony No. 3, CD 1",
+  "updated_at": "2026-01-29T17:15:54.966Z",
+  "updated_by": "nvanderperren",
+  "rights_statement": ""
+}
