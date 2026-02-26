@@ -1,5 +1,7629 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "uuid": "31460d38-5d10-4167-9bf7-b2653e20d834",
+      "start_time": 4.18,
+      "end_time": 17.64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Three people. One slice. Classic scenario. What to do. What to do. I mean, nobody wants to be the one to take the last slice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "69c2c1ac-6295-4ec5-8e6d-63ccb5f981dc",
+      "start_time": 23.328,
+      "end_time": 23.78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You look at what?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Porky Pig"
+        }
+      ]
+    },
+    {
+      "uuid": "04737e39-d81f-4a4f-bc8e-014b82ddb2fd",
+      "start_time": 47.968,
+      "end_time": 48.384,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I hope you save room."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "baac4bcc-85df-4eaf-9350-ea97e39662cd",
+      "start_time": 54.144,
+      "end_time": 57.17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let me get yours, Porky. I still feel bad about you losing your job."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "bd21707d-2bf9-40c8-b3b3-11fc03fad5ad",
+      "start_time": 57.43,
+      "end_time": 61.33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, no, it&#x27;s okay. I got a new job. I&#x27;m doing catering."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "55487219-5f57-4a28-b755-03310ebb2250",
+      "start_time": 61.47,
+      "end_time": 72.67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Catering? Nobody wants a pig handling their food. Besides, isn&#x27;t that a lot of temptation? I mean, your name&#x27;s not Health and Fitness Pig. It&#x27;s Porky Pig. Am I right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "b21808db-53a1-4208-abdb-334b517ad5d9",
+      "start_time": 75.776,
+      "end_time": 78.29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Couldn&#x27;t you at least pretend to reach for your wallet?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "ed5945d8-c296-4b44-bb61-f4ff1405cf9a",
+      "start_time": 78.61,
+      "end_time": 82.51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don&#x27;t have a wallet. Besides, I shouldn&#x27;t have to pay. It&#x27;s my birthday."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "def55f2a-f486-4664-abb4-2e7213bd0109",
+      "start_time": 82.81,
+      "end_time": 84.73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your birthday&#x27;s not until next week."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "19883105-68cd-4b73-a465-83076e55693f",
+      "start_time": 85.07,
+      "end_time": 87.97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, we&#x27;re well within the birthday zone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "7374ff58-ef20-430c-acc6-ae8c04bbcf2e",
+      "start_time": 90.816,
+      "end_time": 91.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It&#x27;s Lola."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "73cfb57c-2c2e-4487-890c-ba2da480f085",
+      "start_time": 91.74,
+      "end_time": 94.16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hey, whoa, whoa, whoa, whoa, whoa. Slow down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "f6a6acef-fad1-43e9-877a-bbfc655a7bfe",
+      "start_time": 94.74,
+      "end_time": 95.98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lola, calm down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "8bd77318-3242-4e79-aefe-22e75d314218",
+      "start_time": 96.2,
+      "end_time": 98.38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lola, stop. I can&#x27;t understand."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "9244d34b-f3a2-4d6e-8993-ed88b50aebb5",
+      "start_time": 98.9,
+      "end_time": 99.96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where are you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "53509257-feb3-4abf-ac38-a074078d3f79",
+      "start_time": 100.34,
+      "end_time": 101.54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where are you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "0128343d-b4c1-4c73-b13d-e92760297d87",
+      "start_time": 102.16,
+      "end_time": 103.72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, I&#x27;m coming."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "6fccfb40-d36b-4413-a483-2de4ddf2be1a",
+      "start_time": 103.88,
+      "end_time": 104.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I gotta go."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "cf163c5b-00ea-42c4-9a67-c7e0b99b28d8",
+      "start_time": 105.04,
+      "end_time": 106.06,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lola broke her leg."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Bugs Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "c0c4cfdc-7bfb-4c73-abf2-488c339e7d08",
+      "start_time": 106.42,
+      "end_time": 106.76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, dear."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "417b146d-c5ca-408d-bf40-302de48ee979",
+      "start_time": 107.2,
+      "end_time": 108.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Poor Lola."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "83bb6866-1f61-4f09-a3a5-1bc296af0f0e",
+      "start_time": 108.56,
+      "end_time": 109.7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Don&#x27;t feel bad for her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "fbcd03a7-f875-4ab1-bbc6-00d2ad4d2fd4",
+      "start_time": 109.92,
+      "end_time": 111.58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You&#x27;re the one who got stuck with a bill."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "6f198344-95dd-40eb-9eb8-81bdff77ba45",
+      "start_time": 111.78,
+      "end_time": 112.704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Am I right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "3d06feaf-543d-4bd2-ba21-80537f016deb",
+      "start_time": 115.456,
+      "end_time": 116.61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You guys are too sensitive."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "c459fdf7-d1c4-4df4-b188-22ccfaf8378f",
+      "start_time": 128.064,
+      "end_time": 128.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are you doing here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "bdd2f86d-b13c-499b-9720-90dcb1d7c9cd",
+      "start_time": 128.3,
+      "end_time": 129.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You called me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "befb4596-9994-4d9b-bace-84c6508928c7",
+      "start_time": 129.68,
+      "end_time": 130.84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You were hysterical."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "234c65d2-057d-47b4-bb35-73cce5fd206d",
+      "start_time": 131.02,
+      "end_time": 132.02,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "72404f95-d6da-40a1-999c-1f9ab6a3e303",
+      "start_time": 132.48,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It&#x27;s a simple fracture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "615a119e-771b-4012-8840-048978a10d42",
+      "start_time": 134.48,
+      "end_time": 137.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She&#x27;ll have the cast off in about six weeks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "9a33e857-26bb-4088-ba3e-0169bac4fa9a",
+      "start_time": 137.58,
+      "end_time": 138.4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How did it happen?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "f4a7d5a9-8cf1-4b2e-a8b9-7e33aec4c8ff",
+      "start_time": 138.68,
+      "end_time": 139.22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It&#x27;s crazy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "129f612e-8e7a-4d6a-912f-2a6948961f35",
+      "start_time": 139.42,
+      "end_time": 144.02,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was out buying cupcakes when I noticed a baby stuck on top of a building."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "1f2fc69c-94b2-4be2-ada3-683a71b4079c",
+      "start_time": 144.04,
+      "end_time": 145.52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I knew I had to save that baby."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "f2612449-f204-4564-9231-41b2bdf4436d",
+      "start_time": 145.64,
+      "end_time": 153.08,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I finished my cupcake and shimmied up the drainpipe when suddenly the drainpipe started coming loose from the building."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "36a35672-3cc1-4148-ad36-e027615829e9",
+      "start_time": 153.08,
+      "end_time": 154.78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you fell and broke your leg?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "478ef2a8-1acd-4f40-832b-d4024550d7fb",
+      "start_time": 154.96,
+      "end_time": 155.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "12823330-a990-40f6-8bfe-6660fb23413f",
+      "start_time": 155.42,
+      "end_time": 160.02,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I let go of the drainpipe just in time and grabbed hold of a telephone wire."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "ad5aee5d-322d-4e20-a354-76f403a2aeae",
+      "start_time": 160.16,
+      "end_time": 162.32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So there I was, hanging from the wire."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "e470abe7-2a72-488a-a76f-85d096e637e8",
+      "start_time": 162.52,
+      "end_time": 168.06,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I started swinging myself back and forth until finally I flung myself as high as I could, hoping I would make it to the roof."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "27a17c62-7704-4c66-8e7a-601881119f3b",
+      "start_time": 168.2,
+      "end_time": 169.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I didn&#x27;t make it to the roof."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "daa1223d-e6b9-4117-95fc-5c884e8718e9",
+      "start_time": 169.76,
+      "end_time": 173.98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was totally out of control and I went crashing through a giant plate glass window."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "1dfb4bb9-5be9-41cf-a7b6-14aa0e85ae72",
+      "start_time": 174.28,
+      "end_time": 176.02,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that&#x27;s when you broke your leg?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "678577fb-c4d6-4530-96c2-c3fc61e12938",
+      "start_time": 176.2,
+      "end_time": 176.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "3fecc395-0b7c-47c5-9ffe-ff6934b62506",
+      "start_time": 176.98,
+      "end_time": 179.44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I landed flat on my back in the middle of some girl&#x27;s apartment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "4c8b6152-e0e8-4a54-bf5b-9f329b7d4d53",
+      "start_time": 179.66,
+      "end_time": 180.8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She was super sweet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "ce6e8b75-ed8c-4dd8-874b-0e5f2f6582e5",
+      "start_time": 180.94,
+      "end_time": 182.12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We&#x27;re totally having lunch next week."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "a4430249-c2a7-4ba0-b6ae-06ac037b2629",
+      "start_time": 182.12,
+      "end_time": 185.38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anyway, I found my way to the elevator, but it was out of service."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "3d2f20d6-2dd9-40bb-b322-754631fe7883",
+      "start_time": 185.38,
+      "end_time": 189.96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I had to pry open the doors and throw myself into the elevator shaft."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "f5a12d87-c930-45a6-bb18-de4c7a3a691a",
+      "start_time": 190.18,
+      "end_time": 192.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You fell down an elevator shaft?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "4a94bc38-7005-454d-91d7-db4346713280",
+      "start_time": 192.36,
+      "end_time": 193.52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Will you please just listen?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "a4cca7ed-c3ba-4a3c-87c9-9f7e276366a6",
+      "start_time": 193.52,
+      "end_time": 195.64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I caught the elevator cables."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "94bd0bde-221b-4ca5-843a-202bea67068c",
+      "start_time": 195.64,
+      "end_time": 204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I pulled myself up hand over hand until I finally reached the top where I kicked the grate open with my feet and catapulted myself onto the roof."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "d4b28704-2f54-4158-aeec-f5ec550ace25",
+      "start_time": 204.18,
+      "end_time": 208.94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But right before I could grab the baby, it turned and I realized it wasn&#x27;t a baby."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "88060cf7-00f4-4d8f-949f-f09ce19010fe",
+      "start_time": 209.06,
+      "end_time": 209.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was a crow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "a36d69c6-6f09-400f-a4d4-b276191a5926",
+      "start_time": 210.74,
+      "end_time": 211.96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it attacked me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "58dbcfb3-34cd-496f-b17c-a179aa08cc65",
+      "start_time": 212.26,
+      "end_time": 212.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "414a4b4f-2d86-41bf-b80a-d29da6182e45",
+      "start_time": 212.86,
+      "end_time": 216.9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I tried to fend it off, but he was one of those angry crows and no matter what I did, he kept attacking."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "5d5713ff-d28c-4a07-952b-2d60942efc54",
+      "start_time": 217.18,
+      "end_time": 224.54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He wouldn&#x27;t stop and he just kept attacking and attacking until finally I lost my balance and fell 15 stories."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "91ca54da-31ad-4a66-9cc4-cb5b164c8165",
+      "start_time": 224.94,
+      "end_time": 226.64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that when you broke your leg?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "8e242400-523d-40bf-a615-6eee70db841d",
+      "start_time": 226.86,
+      "end_time": 227.26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "1b5c9c1d-c3db-4c39-af36-cbedb7ba7d6e",
+      "start_time": 227.44,
+      "end_time": 230.22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I landed on an inflatable gorilla in front of a car dealership."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "768f0b4a-b47c-492c-af25-29392a202156",
+      "start_time": 230.22,
+      "end_time": 231.96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So how did you break your leg?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "6019baab-e152-49ce-b991-a00f9dfc5f91",
+      "start_time": 232.56,
+      "end_time": 235.74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, I was here for a checkup and I slipped getting up on this table."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "15eae8ea-3ff8-4e97-8f5b-54e04a0a6c55",
+      "start_time": 236.08,
+      "end_time": 237.02,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It&#x27;s really high."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "dad90a1b-f338-4006-a48e-303f847dc3c8",
+      "start_time": 237.32,
+      "end_time": 237.9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You should try it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "c4697d7b-e37a-448c-a640-2de72c5d1b44",
+      "start_time": 238.1,
+      "end_time": 238.94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, wait, don&#x27;t."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "e0cd335a-c3ea-426f-8250-4a94837bac9b",
+      "start_time": 239.14,
+      "end_time": 239.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You&#x27;ll break your leg."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "d1038345-e1ac-4df9-a4ee-b4e4d9fbae1b",
+      "start_time": 240.18,
+      "end_time": 240.78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Like me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "0ef144fc-5635-45f4-94b2-b9818e09a18e",
+      "start_time": 241.5,
+      "end_time": 242.42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She&#x27;s a keeper."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Nieuwslezer"
+        }
+      ]
+    },
+    {
+      "uuid": "7174f702-acbb-44ed-8e32-b95404828ea5",
+      "start_time": 246.944,
+      "end_time": 247.71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are we doing here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "797bb82b-a8bd-49fd-9d58-a7356f066890",
+      "start_time": 248.21,
+      "end_time": 249.37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I&#x27;m dropping you off."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "6fe94470-db2a-4507-8014-3f3cee96583f",
+      "start_time": 249.97,
+      "end_time": 250.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pugs isn&#x27;t here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "3f686f80-f5d3-4930-8ee3-8c6d7d3ed1aa",
+      "start_time": 251.01,
+      "end_time": 252.07,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How am I supposed to get inside?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "865f56bd-42f4-49fc-92c1-2fe000eba84d",
+      "start_time": 252.47,
+      "end_time": 253.35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here&#x27;s your keys."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "ef66fc93-033b-46c3-aa75-b03a7cdc6d45",
+      "start_time": 253.57,
+      "end_time": 254.45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don&#x27;t have keys."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "2471da05-c927-4ed8-b3ea-ef270f308795",
+      "start_time": 254.81,
+      "end_time": 257.95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So you don&#x27;t have a wallet or keys?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "116d5c67-0ef7-408c-833d-8efc4c2bd6bc",
+      "start_time": 258.19,
+      "end_time": 260.63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Porky, I&#x27;m a spiritual being."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "cf9bfd77-511d-404a-afbb-f1e539973cf8",
+      "start_time": 260.97,
+      "end_time": 263.296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I&#x27;m not interested in material possessions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "548e165f-d91a-4bbe-b3ce-992afad418db",
+      "start_time": 265.248,
+      "end_time": 266.208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ooh, can I have these?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "dc926647-8975-45ba-99a9-6771192ca833",
+      "start_time": 267.36,
+      "end_time": 268.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just take me to your house."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "3432ef1c-f6ab-4dc6-abdd-4a17b60e6016",
+      "start_time": 268.48,
+      "end_time": 271.76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, uh, can&#x27;t I drop you off at Tina&#x27;s?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "2c061108-f7fb-4a9c-83cc-304aea762d5f",
+      "start_time": 271.88,
+      "end_time": 272.82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tina&#x27;s at work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "abc77aef-7e03-45bf-944c-48b1756602a7",
+      "start_time": 273.46,
+      "end_time": 275.46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why don&#x27;t you want to take me to your house?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "d23609dc-f70b-4434-b932-70b3bcfd21c0",
+      "start_time": 275.78,
+      "end_time": 276.42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, no, no."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "85a824b7-17a2-4e5c-8c17-f91dc4935b39",
+      "start_time": 276.64,
+      "end_time": 277.38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It&#x27;s just..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "4dd27735-ed32-41e1-9cc4-ddbbc61580bb",
+      "start_time": 277.38,
+      "end_time": 278.54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It&#x27;s just what?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "d236f6e5-3832-4e36-8f49-b7ed0ca79b6b",
+      "start_time": 278.84,
+      "end_time": 279.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, nothing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "53f62111-cac4-4b78-8a4f-e6934bae1688",
+      "start_time": 279.7,
+      "end_time": 280.08,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I&#x27;m..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "9031ffdb-1b17-4cd9-a335-cf2b5d48c45d",
+      "start_time": 280.08,
+      "end_time": 280.7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You&#x27;re what?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "d1248ea2-ae69-4691-8627-429eae0bc764",
+      "start_time": 280.9,
+      "end_time": 282.14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are you up to?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "fe8014a7-e5dd-495a-983d-aeb89c6333a7",
+      "start_time": 282.48,
+      "end_time": 283.52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are you hiding?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "7fbb126a-0354-4bc1-ac2b-d7e6be60ca91",
+      "start_time": 283.84,
+      "end_time": 284.704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In-in-in nothing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Porky Pig"
+        }
+      ]
+    },
+    {
+      "uuid": "7d071e72-91f1-4483-a962-19d5096d4931",
+      "start_time": 286.784,
+      "end_time": 287.16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aha!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "c589130b-8e57-452d-b292-0e95600edea8",
+      "start_time": 287.7,
+      "end_time": 289.1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You were hiding these."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "a631ba25-b3e7-45a7-8bac-3339db46e4f2",
+      "start_time": 291.71,
+      "end_time": 295.61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All I&#x27;m saying is you need to be charming to do catering."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "ddb16e1a-bf7d-4123-ab58-565caf55308b",
+      "start_time": 295.95,
+      "end_time": 297.27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You&#x27;re not charming."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "88bdd174-ea46-417f-aa7e-400c4b595940",
+      "start_time": 297.81,
+      "end_time": 298.97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just go watch TV."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "e5de310a-1e09-46b6-bbf8-fdda86511e86",
+      "start_time": 298.97,
+      "end_time": 301.03,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, I&#x27;ve got something cooking to do."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "a188b152-ad0b-447f-b150-56da8c921b12",
+      "start_time": 301.21,
+      "end_time": 301.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "07a9ce15-e169-4b3e-8bd5-db4cb0ce3363",
+      "start_time": 302.27,
+      "end_time": 302.75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Catering."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "fe204cd1-f90d-45fe-a44c-6cf5537c28c3",
+      "start_time": 302.89,
+      "end_time": 305.87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You should get a job where you don&#x27;t have to interact with people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "5687821f-15f4-4b34-a7f9-f17cc180d03f",
+      "start_time": 306.13,
+      "end_time": 309.03,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Maybe something with a computer where people don&#x27;t have to look at you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "8c31e38b-4417-422e-b8db-62232fd7d76f",
+      "start_time": 309.25,
+      "end_time": 310.656,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That&#x27;d be good for you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "906bd08c-abac-4b13-b1dd-b4f1d4f8a6b2",
+      "start_time": 311.712,
+      "end_time": 314.63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because you&#x27;re a creepy recluse who keeps to himself."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "f5b4c7b7-4f5a-4143-a95c-5dfcb16360e4",
+      "start_time": 316.864,
+      "end_time": 318.94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "...news in the case of the suburban strangler."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Nieuwslezer"
+        }
+      ]
+    },
+    {
+      "uuid": "8f38867f-c061-4656-bff2-7425f3496e07",
+      "start_time": 319.26,
+      "end_time": 322.36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Until now, the police have had little to go on"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Nieuwslezer"
+        }
+      ]
+    },
+    {
+      "uuid": "fbb2ffc7-c3cc-4d80-8464-6ef0852f1e5e",
+      "start_time": 322.36,
+      "end_time": 326.84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other than the assumption that the killer is a creepy recluse who keeps to himself."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Nieuwslezer"
+        }
+      ]
+    },
+    {
+      "uuid": "167a0d78-5a18-485a-a06b-379b7e1175dc",
+      "start_time": 327.36,
+      "end_time": 327.52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Huh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "77ff21fd-67e5-4e78-a6dc-ea04d140bcd1",
+      "start_time": 327.72,
+      "end_time": 329.38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That&#x27;s how I just described Porky."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "4a96eccf-4bec-490f-8082-ae70c94dc883",
+      "start_time": 329.38,
+      "end_time": 331.36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But now a witness has come forward,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Nieuwslezer"
+        }
+      ]
+    },
+    {
+      "uuid": "e25b6a3d-4880-45b5-acb1-c78e105484fa",
+      "start_time": 331.56,
+      "end_time": 334.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "giving police a physical description of the suspect."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Nieuwslezer"
+        }
+      ]
+    },
+    {
+      "uuid": "8eae3bed-0a04-45be-916a-e73d2ad4ac7a",
+      "start_time": 334.52,
+      "end_time": 339.88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The guy we&#x27;re looking for is chubby, short, and bald, with a pig-like nose."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Nieuwslezer"
+        }
+      ]
+    },
+    {
+      "uuid": "b7db78a6-bcc6-4be5-8d8b-157492c08b39",
+      "start_time": 340.42,
+      "end_time": 344.46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chubby, short, and bald, with a pig-like nose?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "a70ca8cd-aba2-4270-ae30-ca5d04ec2678",
+      "start_time": 344.76,
+      "end_time": 348.92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you see anyone matching this description, call 911."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Nieuwslezer"
+        }
+      ]
+    },
+    {
+      "uuid": "6b887e93-1328-4dd9-8734-8fb4a6ef19fe",
+      "start_time": 348.92,
+      "end_time": 349.312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What happened?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Nieuwslezer"
+        }
+      ]
+    },
+    {
+      "uuid": "a07a3e81-19b8-4861-aec7-19d5cd6d26e7",
+      "start_time": 373.728,
+      "end_time": 373.984,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where am I?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "de8e6c9d-ba3d-4a78-b26e-26b617d754cc",
+      "start_time": 377.824,
+      "end_time": 378.56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I&#x27;m in Porky&#x27;s house."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "563c5dc0-e255-4879-a725-2b35c67463e8",
+      "start_time": 383.648,
+      "end_time": 384.96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Porky&#x27;s the suburban strangler!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "f2de0c06-e514-448b-b58c-f4b37d8a3467",
+      "start_time": 385.24,
+      "end_time": 386.24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I gotta call 911."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "ad8e4de6-824a-4662-bb12-ef9a66acdf3d",
+      "start_time": 386.68,
+      "end_time": 388.98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ah, I don&#x27;t remember the number for 911."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "c6d1127f-4489-4cab-944e-3eb8e69eabaf",
+      "start_time": 389.8,
+      "end_time": 390.1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Think."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "eaf2b7ae-aee4-4100-9f44-ca1f0c5aae43",
+      "start_time": 390.6,
+      "end_time": 391.42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Think, man."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "02b14d3d-9796-4f87-b431-44991d097812",
+      "start_time": 391.8,
+      "end_time": 392.44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "02a16b3c-65e7-4802-a3c1-cefb99b56213",
+      "start_time": 392.72,
+      "end_time": 395.56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I&#x27;ll call 411 and ask them for the number for 911."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "220aaf1e-5ddd-4da6-af74-d2b185cd7987",
+      "start_time": 397.408,
+      "end_time": 398.22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know the number for 411."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "946e859a-11fc-4ce4-86bd-5fca8759e0b5",
+      "start_time": 398.52,
+      "end_time": 399.56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I&#x27;ll call Bugs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "ec218b31-9167-48d3-9eac-916bcacd2b70",
+      "start_time": 399.56,
+      "end_time": 402.752,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He&#x27;s filled with useless information like emergency phone numbers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "4315e87b-d76e-40e2-92c5-27da1d558631",
+      "start_time": 408.832,
+      "end_time": 410.08,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He cut the phone line."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "12f4a92f-f33f-4837-82cf-00f0b41212e0",
+      "start_time": 415.328,
+      "end_time": 416.12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You scared me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "d0b1ea4d-acbd-43d2-b36f-5e0fd937fc72",
+      "start_time": 416.32,
+      "end_time": 417.22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not that you&#x27;re scary."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "687c2692-a265-4fc7-9437-335269ba1a65",
+      "start_time": 417.44,
+      "end_time": 419.64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I just didn&#x27;t expect you to be standing there like a psychopath."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "9f203182-142d-421d-858b-abf5ff98e269",
+      "start_time": 419.94,
+      "end_time": 420.78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not that you&#x27;re a psychopath."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "a4595e43-b31b-413e-81f6-b1e984b97fd6",
+      "start_time": 421.24,
+      "end_time": 422.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Are you feeling better?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "f80ed23f-3902-41c7-833d-1d81286b7f5e",
+      "start_time": 423.06,
+      "end_time": 423.32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mm-hmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "09360015-8f31-4bfb-8be1-a203ff4fc989",
+      "start_time": 423.56,
+      "end_time": 424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Much better."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "70b4183d-6126-4eaa-93e7-05b28ff79e31",
+      "start_time": 424.22,
+      "end_time": 425.08,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All better, in fact."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "dcc3483b-687d-43cf-8f22-d565646d4454",
+      "start_time": 425.32,
+      "end_time": 426.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I should probably be getting home."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "edd55e40-3c00-4115-ac40-5a8375dfbaa5",
+      "start_time": 427.08,
+      "end_time": 428.72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I&#x27;m sure Bugs is back by now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "3489b49c-078e-437f-889d-1aaeb6a41cc8",
+      "start_time": 428.72,
+      "end_time": 429.9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Porky Pig"
+        }
+      ]
+    },
+    {
+      "uuid": "2645df9c-f1df-44e7-9eb1-db71668ffcd4",
+      "start_time": 430.1,
+      "end_time": 430.88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I&#x27;ll drive you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "77d18ae2-cb6a-4baf-998f-99ecf09c064d",
+      "start_time": 432.064,
+      "end_time": 430.88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wait."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "648bb6b0-fcf8-43d4-8c23-e9ad9fce2d9d",
+      "start_time": 432.52,
+      "end_time": 434.7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They say never let your attacker take you to a second location."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "f300b79f-d70e-4698-8377-811a3544e3f3",
+      "start_time": 435.66,
+      "end_time": 435.92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "ab755324-acab-4429-89fc-0f4ad41a627d",
+      "start_time": 436.42,
+      "end_time": 439.78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you drive me to my house, you&#x27;d be taking me to a second location."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "8281ba82-f318-435b-9481-c21b1c59a720",
+      "start_time": 440.24,
+      "end_time": 440.56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "6c970642-b94b-47e7-bd34-0b8ebdd63f0a",
+      "start_time": 440.8,
+      "end_time": 442.12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nice try, Chubby."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "1b150b12-ad93-40c7-9395-2dad34453b4f",
+      "start_time": 442.32,
+      "end_time": 443.94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But you&#x27;re not taking me anywhere."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "bd38eab6-9e85-4765-b487-2fe943b0fd0e",
+      "start_time": 444.46,
+      "end_time": 445.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You think I&#x27;m Chubby?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "f5941df1-69e0-471f-981b-7e8135857eaf",
+      "start_time": 445.64,
+      "end_time": 447.04,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You&#x27;re not just Chubby."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "f8b30896-e498-4240-877f-42c27bc86c80",
+      "start_time": 447.34,
+      "end_time": 450.36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You&#x27;re Chubby, short, and bald."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "2b417fd8-ec69-4a12-be6f-8e2bbd6e87a6",
+      "start_time": 450.64,
+      "end_time": 451.94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With a pig-like nose."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "25d56972-8c50-4588-bbc4-40643c50c11c",
+      "start_time": 453.504,
+      "end_time": 454,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rude."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "23af127e-affe-41b9-8577-3c692dc3e682",
+      "start_time": 453.504,
+      "end_time": 452.192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ah!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "3950ae7e-37ce-472e-8303-2079d92c3e08",
+      "start_time": 456.064,
+      "end_time": 457.82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Awfully sensitive for a wanted killer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "a2b4ff06-a2cb-4349-813e-45bd8bac135b",
+      "start_time": 459.4,
+      "end_time": 460.78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thanks for getting all my stuff."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "6929e7a9-81f8-41da-a6f8-d82e5bd428de",
+      "start_time": 461.22,
+      "end_time": 462.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I really feel like I&#x27;m at home."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "083c2872-47f7-4282-a606-08c5c96d740a",
+      "start_time": 464.864,
+      "end_time": 466.97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Remind me again why you&#x27;re not at home?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "517aade6-b913-447c-85d8-631bf227d2ba",
+      "start_time": 467.63,
+      "end_time": 470.35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because you&#x27;re taking care of me, and you live here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "64995d3c-2876-4e2f-8356-703b0f277d95",
+      "start_time": 470.57,
+      "end_time": 470.93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "See?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "b2f24f1b-ada1-4e6c-94ac-75a93f180a70",
+      "start_time": 471.09,
+      "end_time": 471.73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I&#x27;m doing you a favor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "80325886-5208-428f-97fd-5cb6f1998787",
+      "start_time": 472.03,
+      "end_time": 473.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gee, thanks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "4852c534-ebe6-4510-911f-db68718b7b39",
+      "start_time": 473.47,
+      "end_time": 474.656,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You won&#x27;t even know I&#x27;m here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "c996ae61-3857-4adc-8830-8e64d7e44952",
+      "start_time": 477.056,
+      "end_time": 477.69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, Bugs?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "4727e29b-1772-47f2-9b27-192e84bced15",
+      "start_time": 478.37,
+      "end_time": 478.81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "415b92f6-7a21-4eb8-bc21-0eb7dbb76277",
+      "start_time": 479.41,
+      "end_time": 480.73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mm, I&#x27;m kind of thirsty."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "f8214435-3ec9-402f-85e0-7a6b5d0d8d2a",
+      "start_time": 481.23,
+      "end_time": 483.424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Would you mind getting me a glass of milk?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "e22a3371-4551-4af9-9f98-03fde767dd05",
+      "start_time": 484.832,
+      "end_time": 485.22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Milk."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "19f4df9f-7d46-4660-9fad-fd564e723d61",
+      "start_time": 485.72,
+      "end_time": 486.56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, no, wait."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "bf7bd4a8-f541-4189-b5c0-655bf436436e",
+      "start_time": 486.66,
+      "end_time": 487.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I&#x27;m allergic to milk."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "cf926b65-9032-4f01-aee4-970f1d5c0a6b",
+      "start_time": 487.94,
+      "end_time": 488.78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How about a soda?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "d4500151-c88f-469f-8bdb-f5dbc3b39cc0",
+      "start_time": 489.06,
+      "end_time": 489.88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Diet soda, though."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "95dbaf58-3974-4f8f-853b-3ed36dda79d9",
+      "start_time": 490.06,
+      "end_time": 490.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, no, wait."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "c3f844b6-3950-43cc-b5be-a96c61c859b2",
+      "start_time": 490.62,
+      "end_time": 491.36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Regular soda."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "2008ca01-549f-4fa6-94d8-e0457497d5a2",
+      "start_time": 491.66,
+      "end_time": 492.26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I need the calories."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "d179f8c8-950c-4e83-b36f-aa96fafa9b12",
+      "start_time": 492.92,
+      "end_time": 493.8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know what?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "52e8be9f-8385-42f5-ab6e-bf7fcc449ea4",
+      "start_time": 493.98,
+      "end_time": 494.36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sorry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "9b56185c-7155-45a8-92e8-6c6ecd3eb548",
+      "start_time": 494.62,
+      "end_time": 495.34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soda&#x27;s bad for you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "c97e1d1c-aa5c-4258-917b-053fdc77b643",
+      "start_time": 495.72,
+      "end_time": 496.52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How about an orange juice?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "04edfbd3-18f9-4f91-9943-471720d3c5c8",
+      "start_time": 496.8,
+      "end_time": 497.02,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "7e1ec25f-3a5b-4a7b-99a0-841efd3dc98a",
+      "start_time": 497.4,
+      "end_time": 497.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wait."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "aa1f74f2-f4e3-493b-a5d8-d0fcb856605b",
+      "start_time": 497.9,
+      "end_time": 498.52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Apple juice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "c26e8051-7eb1-4de5-916c-d35a64059f5e",
+      "start_time": 498.82,
+      "end_time": 499.08,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "68ed66c4-f2b7-4672-8ac2-d4f7ae67a882",
+      "start_time": 499.42,
+      "end_time": 500.04,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Orange juice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "69f5efa1-34bf-4be8-9f43-9b96f489b94e",
+      "start_time": 500.3,
+      "end_time": 500.54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "3bfa45b7-e020-4583-b681-5bc33770d6c4",
+      "start_time": 500.8,
+      "end_time": 501.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Apple juice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "d5d8d70b-2ddd-47dc-ba3d-38a417a83291",
+      "start_time": 501.42,
+      "end_time": 501.82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know what?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "b21b501c-9294-45af-b815-08d2a44813ee",
+      "start_time": 501.96,
+      "end_time": 503.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just give me the milk, and we&#x27;ll see what happens."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "3412a3ed-05d0-4b47-92d9-1110a098c42d",
+      "start_time": 504.28,
+      "end_time": 505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What&#x27;s that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "587965d9-d225-465f-bac7-01dbeece8338",
+      "start_time": 505.32,
+      "end_time": 505.78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Water."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "c2d6c7a4-69ab-494f-afec-e9884f9bb790",
+      "start_time": 506.18,
+      "end_time": 506.56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "f8078e61-cbdd-471a-806f-d544b27b2d04",
+      "start_time": 506.88,
+      "end_time": 507.76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It&#x27;s just what I wanted."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "b12991f2-3943-47e0-91fc-63fc0aff52f7",
+      "start_time": 512.96,
+      "end_time": 513.568,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I gotta pee."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "d2f553c4-2acf-4e39-b8b0-46a17824e05d",
+      "start_time": 521.568,
+      "end_time": 523.16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When do you get your cast off again?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "8f1d975b-eb79-4b64-a8ac-886a72cc8d9f",
+      "start_time": 523.54,
+      "end_time": 524.7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Only six weeks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "94f62515-7119-4a63-a241-9de91a51e372",
+      "start_time": 551.712,
+      "end_time": 552.28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can it be bed?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "1d1a7025-914f-4c3e-840e-d08ade209996",
+      "start_time": 553.02,
+      "end_time": 554.16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Embroidered pillows?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "069d73d2-4f3a-4f0e-acc8-d475e7faed78",
+      "start_time": 554.74,
+      "end_time": 555.9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lace curtains?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "66ccb66c-9c3d-4c8a-9b22-6f096a1558ee",
+      "start_time": 556.34,
+      "end_time": 560.98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is either the bedroom of an 80-year-old woman, or a deranged killer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "9f7dc111-cf66-4760-9d3d-86c50f3c3f33",
+      "start_time": 564.416,
+      "end_time": 564.96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No knives."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "52fbc731-073c-4f6c-925f-0b4f1ff776ca",
+      "start_time": 565.12,
+      "end_time": 565.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No guns."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "b7aa70fa-af2f-4c2a-9e6c-973d3d30a19b",
+      "start_time": 565.9,
+      "end_time": 566.68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No body parts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "f1220c9e-9178-4280-ba13-351809b4f71c",
+      "start_time": 568.86,
+      "end_time": 570.28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Great day in the morning."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "6928f77f-1c08-4dc2-85bf-66e24baf058a",
+      "start_time": 570.6,
+      "end_time": 572.9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How many sunglasses does one pig need?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "b02eb9e1-0a4b-4c24-92ac-ab354af11f1a",
+      "start_time": 573.38,
+      "end_time": 576.56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is it possible that Porky&#x27;s not the suburban strangler?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "dffb3cca-9407-47ae-889b-8d76a4af035c",
+      "start_time": 576.9,
+      "end_time": 580.22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could it be that he just happens to be chubby, short, and bald?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "6dd91201-4ad8-41c0-bf1b-83318c2322c3",
+      "start_time": 580.46,
+      "end_time": 585.536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I&#x27;m jumping to an outlandish conclusion because I&#x27;m a paranoid, hateful, fear-mongerer?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "4bd54cae-c893-409d-bbf7-30a8ae9bf61b",
+      "start_time": 589.568,
+      "end_time": 590.816,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, that&#x27;s the face of a killer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "71e159c7-8e31-4887-971b-c79cd1acbf6c",
+      "start_time": 608.928,
+      "end_time": 609.22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It&#x27;s me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Porky Pig"
+        }
+      ]
+    },
+    {
+      "uuid": "68de39d5-c30a-444a-9970-f17aaae4fc00",
+      "start_time": 609.74,
+      "end_time": 610.76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It has to be tonight."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Porky Pig"
+        }
+      ]
+    },
+    {
+      "uuid": "c0003b0e-7e16-45a0-8468-32cc347bf91b",
+      "start_time": 611.26,
+      "end_time": 612.46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think he&#x27;s on to me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Porky Pig"
+        }
+      ]
+    },
+    {
+      "uuid": "7f45a37b-4118-4b94-81d2-2afa724e009b",
+      "start_time": 612.98,
+      "end_time": 614.96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Come pick up Daffy when I&#x27;m done with him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Porky Pig"
+        }
+      ]
+    },
+    {
+      "uuid": "19a5ba8a-c31d-4eb0-a5f7-08127ce2b9e1",
+      "start_time": 615.28,
+      "end_time": 616.76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He&#x27;ll be in the garage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Porky Pig"
+        }
+      ]
+    },
+    {
+      "uuid": "9c3cd50d-71c6-4834-9123-3c8077a119f9",
+      "start_time": 617.14,
+      "end_time": 618.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the freezer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Porky Pig"
+        }
+      ]
+    },
+    {
+      "uuid": "79f44566-996f-48bb-89fd-85b1bd503fd2",
+      "start_time": 623.36,
+      "end_time": 624.49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is all this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Porky Pig"
+        }
+      ]
+    },
+    {
+      "uuid": "ae4d0d03-c874-48ae-a460-115834222da9",
+      "start_time": 644.512,
+      "end_time": 644.75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nowhere."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "28a3990f-e1cd-46a9-9ea6-34dbce1527e3",
+      "start_time": 645.05,
+      "end_time": 646.53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was just getting a little hungry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "54604785-0de6-4dbe-af1f-6c79b9d37483",
+      "start_time": 646.87,
+      "end_time": 647.81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let me make you something."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "1bb56895-41b5-4603-8e29-b1764d572f49",
+      "start_time": 648.11,
+      "end_time": 648.67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How about a sandwich?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "a45f6cea-cb03-4d44-b9f0-5ec526072819",
+      "start_time": 649.23,
+      "end_time": 650.39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, why, thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "cc9c3428-8816-4d45-b77e-cacbfe1240e3",
+      "start_time": 650.55,
+      "end_time": 652.07,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would love a sandwich."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "647ef9bf-9bf3-4ec4-bb98-753ea590b30f",
+      "start_time": 659.392,
+      "end_time": 660.09,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He&#x27;s toying with me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "09e9eee2-fd66-40fd-a0a9-24e45a7b398b",
+      "start_time": 660.37,
+      "end_time": 662.81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He&#x27;s gonna chop me up into a million pieces."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "f0a9a023-1431-413d-a1a1-96b4c9125a75",
+      "start_time": 663.13,
+      "end_time": 664.19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He&#x27;s gonna cook me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "75c269be-654b-44e7-aaed-62b26fa63018",
+      "start_time": 664.39,
+      "end_time": 665.47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He&#x27;s gonna wear me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "0d948d5e-e36c-4734-b6ff-e1e4796dd835",
+      "start_time": 666.21,
+      "end_time": 666.83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wait a minute."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "e2bf85b1-68bd-4c69-b407-e50320a52776",
+      "start_time": 667.31,
+      "end_time": 668.17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Calm down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "8c511072-9b83-4930-a781-cc4426722c51",
+      "start_time": 668.55,
+      "end_time": 670.69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Porky you&#x27;re talking about."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "54f6ddbe-a125-47dc-836f-8298a21ec1a9",
+      "start_time": 671.15,
+      "end_time": 672.69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You&#x27;ve known him your whole life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "a9417283-2bf3-4a30-b03f-d531f36f4eae",
+      "start_time": 673.05,
+      "end_time": 674.47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He wouldn&#x27;t hurt a fly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "43d2ad3d-f6a7-40a2-a323-0304adbb07d7",
+      "start_time": 674.77,
+      "end_time": 676.01,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He&#x27;s a sweetheart."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "9f57a21c-d40e-44f3-acf3-7ad49ca67b01",
+      "start_time": 677.76,
+      "end_time": 678.12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, no."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "5742da16-b625-44ca-b517-2917f8f6e530",
+      "start_time": 678.56,
+      "end_time": 680.12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I&#x27;ve got Stockholm Syndrome."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "d034ffd4-1738-4aa3-8eda-374351c7b966",
+      "start_time": 680.5,
+      "end_time": 682.72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I&#x27;ve fallen in love with my captor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "7bfb7ba9-99bb-4e72-939d-4d88ecf20b30",
+      "start_time": 683.936,
+      "end_time": 684.93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It&#x27;s a chopped liver."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Porky Pig"
+        }
+      ]
+    },
+    {
+      "uuid": "075b9ec1-e492-4e5e-8a92-04bd41e48bc9",
+      "start_time": 685.35,
+      "end_time": 685.568,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "f059b4ef-30ff-47a7-9835-bcdb5b261ae8",
+      "start_time": 686.816,
+      "end_time": 687.06,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Porky Pig"
+        }
+      ]
+    },
+    {
+      "uuid": "eb664deb-ee9b-4c13-a125-ee6955301203",
+      "start_time": 692.95,
+      "end_time": 694.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know what?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "4075a152-6448-48c3-b644-689abea50b90",
+      "start_time": 694.41,
+      "end_time": 697.31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I just realized I&#x27;m not hungry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "94783dd3-957f-494a-ba0f-0af152e643ea",
+      "start_time": 700.544,
+      "end_time": 702.01,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think I should slide back down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "7cc5006e-687a-451e-b4d2-55ef5d718ad3",
+      "start_time": 731.776,
+      "end_time": 732.76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is this not the bathroom?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "154be283-b895-4446-8773-765c3288273f",
+      "start_time": 731.776,
+      "end_time": 711.744,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sorry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "45b4ca71-6698-4b52-ad24-ef943262fd62",
+      "start_time": 733.08,
+      "end_time": 733.92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My mistake."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "1e476c7a-7427-42fe-9349-c58776b13e23",
+      "start_time": 734.18,
+      "end_time": 735.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I thought this was the bathroom."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "c2e0dc74-38e1-4c4a-8f91-16bb93341c7b",
+      "start_time": 736.06,
+      "end_time": 736.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do not."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "c1fbb8fa-59bf-4cf2-9789-f79db69b10f7",
+      "start_time": 738.944,
+      "end_time": 740.16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wouldn&#x27;t dream of it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "1e149cd1-97da-4cad-a08b-b8ea93220219",
+      "start_time": 741.856,
+      "end_time": 743,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you&#x27;ll excuse me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "53041c01-d437-4083-becf-e7d91a9f419b",
+      "start_time": 743.2,
+      "end_time": 745.056,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have some business to attend to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "2612051c-9de2-4f12-a8c0-4e1b70d1a1d9",
+      "start_time": 748.544,
+      "end_time": 750.63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have some business to attend to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "5889caec-8f5d-43bc-b8a8-cdbf1afcc346",
+      "start_time": 750.63,
+      "end_time": 752.93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That&#x27;s what a killer says right before he kills."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "a0e89dff-9198-44a5-b74d-078cfd4f830b",
+      "start_time": 753.43,
+      "end_time": 755.33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Or is it get in the van?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "75b8c436-ac13-48a2-9ae2-c976ae610120",
+      "start_time": 755.53,
+      "end_time": 755.83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "4b9e8f92-e271-4a18-8ba5-edccd0577fa2",
+      "start_time": 756.05,
+      "end_time": 757.47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It&#x27;s I have some business to attend to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "29372276-8c45-426e-b79d-2e9592d095a5",
+      "start_time": 757.47,
+      "end_time": 785.728,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, at least it&#x27;s over."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "95b2ef31-82ab-4211-8359-da6c3ac2cb36",
+      "start_time": 804.416,
+      "end_time": 805.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can I help you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "4a586782-860b-427b-816d-bb6b1edbdfaa",
+      "start_time": 805.89,
+      "end_time": 807.77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I thought I heard you downstairs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "4776cec5-d750-4da5-84d1-8a0ae4153e39",
+      "start_time": 809.6,
+      "end_time": 808.224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nope."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "820215bd-da98-400f-a3af-8d9cfbd63853",
+      "start_time": 810.16,
+      "end_time": 811.18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Been here the whole time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "59feaf7f-d46b-422f-a198-06cc28e9adcd",
+      "start_time": 811.36,
+      "end_time": 812.66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just reading the paper."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "476b5b97-cd69-4857-a524-a01b5fc906b0",
+      "start_time": 819.584,
+      "end_time": 820.49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr. Dave Snooze."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "5b77c743-20bb-4dd3-a855-b7aa5a016be1",
+      "start_time": 821.35,
+      "end_time": 822.65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can I bring you some tea?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "f21dd36b-a241-4677-98c4-8d58c1abebea",
+      "start_time": 823.67,
+      "end_time": 825.17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That sounds lovely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "c6220168-dd4d-4af0-8235-62b7191dab70",
+      "start_time": 850.656,
+      "end_time": 851.31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What could be in here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "4c93912c-9edc-4124-8e53-bfa785d66d68",
+      "start_time": 851.79,
+      "end_time": 852.25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bodies?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "45b1953d-eb30-4f9e-92d5-6c539971b726",
+      "start_time": 852.75,
+      "end_time": 853.67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Torture machines?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "fca9252b-0920-4d2b-beb6-c13381f1eb51",
+      "start_time": 854.03,
+      "end_time": 855.29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why do I want to go in there?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "c94fca2c-0f49-4dd3-bbd2-e5cd4bb355d5",
+      "start_time": 855.63,
+      "end_time": 858.08,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because I was told not to and I have a problem with authority."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "71006d30-5a72-472f-940d-69ec2b80834d",
+      "start_time": 866.368,
+      "end_time": 867.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I got your Chinese food."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "3b0f5408-9c3b-45c6-8a63-9307243aec26",
+      "start_time": 868.608,
+      "end_time": 868.99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lola?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "8fc17c2a-7725-4880-a49f-ab1b15a55d04",
+      "start_time": 870.03,
+      "end_time": 870.752,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lola?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "946f9d88-5b39-4de0-9b86-35d81c4b0b55",
+      "start_time": 875.584,
+      "end_time": 876.22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "3b69b613-26c6-466c-9567-c06cc911586d",
+      "start_time": 876.72,
+      "end_time": 877.88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It&#x27;s a stair lift."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "9524526c-2246-4c0b-8e63-654149e2a853",
+      "start_time": 878.16,
+      "end_time": 881.76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I felt so bad that you were having to carry me up and down so I had one installed while"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "d4aa043d-75f5-4e0b-b53e-ccbc5095c238",
+      "start_time": 881.76,
+      "end_time": 882.18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you were gone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "0fc2af32-fa63-4e7b-b9c7-404889679497",
+      "start_time": 882.62,
+      "end_time": 883.78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It&#x27;s top of the line."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "68a98618-a8cf-4095-9d31-46a5a8475569",
+      "start_time": 883.98,
+      "end_time": 884.78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That&#x27;s why it&#x27;s so quiet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "1dae7d81-f40a-4a61-b29d-a8fa9ba2f13f",
+      "start_time": 886.464,
+      "end_time": 887,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Almost there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "3be190e0-decc-4332-bfdf-34b96037afdf",
+      "start_time": 888.22,
+      "end_time": 889.088,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here I go."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "bc7212c0-a5b0-44b1-b161-c3a51034831a",
+      "start_time": 890.336,
+      "end_time": 892.928,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just a few more steps."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "2224ac69-81d5-4cca-a491-0e1c98d6134e",
+      "start_time": 898.752,
+      "end_time": 899.168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Almost there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "182943e4-9612-4f24-9bed-af55103fd987",
+      "start_time": 901.216,
+      "end_time": 901.536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here I go."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "c492fec8-f35f-4fae-8397-e59a6e6b2791",
+      "start_time": 907.072,
+      "end_time": 907.9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your Chinese food."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "65e91dd9-ad9c-4a08-8a83-4dbb18c53e26",
+      "start_time": 908.06,
+      "end_time": 909.14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That&#x27;s not Chinese food."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "57e2364a-d906-4fe9-8367-e71093053d59",
+      "start_time": 909.14,
+      "end_time": 913.24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chinese food&#x27;s flat and round with cheese and tomato sauce and a bunch of different"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "84490f12-44e2-4c8a-b15f-350eee79dfcd",
+      "start_time": 913.24,
+      "end_time": 913.66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "toppings."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "12b46e9c-9371-42fe-acc2-974b1438b764",
+      "start_time": 913.92,
+      "end_time": 914.94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That&#x27;s called pizza."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "4a86a9fc-750f-41e7-aac8-8606a62c6aec",
+      "start_time": 915.2,
+      "end_time": 915.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I don&#x27;t know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "721f1a38-5470-4bd5-80d6-beb0966c20f2",
+      "start_time": 915.98,
+      "end_time": 916.78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don&#x27;t speak Chinese."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "e1124e1e-9eba-48f2-84f3-b57c920a75a4",
+      "start_time": 921.568,
+      "end_time": 922.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think I have to pee again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "37f3b579-b38c-4168-87a9-f8c14c743aa4",
+      "start_time": 923.29,
+      "end_time": 923.63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "02fd1784-6857-4394-9856-a640ecafc067",
+      "start_time": 924.19,
+      "end_time": 924.832,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here we go."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "9e970acc-bc79-4498-8201-92eb93dda5ec",
+      "start_time": 971.84,
+      "end_time": 973.632,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then you leave me no choice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "ca4981d5-d619-4b92-ab7e-74848ed5c452",
+      "start_time": 981.344,
+      "end_time": 982.688,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, I probably do, but I don&#x27;t want..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Nieuwslezer"
+        }
+      ]
+    },
+    {
+      "uuid": "dd7d3e56-5817-41e7-a94c-f926bc9e1514",
+      "start_time": 987.68,
+      "end_time": 987.94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What&#x27;s your birthday?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "20893653-e50e-434d-961f-9d84ccfa336c",
+      "start_time": 988.44,
+      "end_time": 989.056,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Say what?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "30b277ab-ff02-46e6-92e9-3564f93794b5",
+      "start_time": 993.696,
+      "end_time": 997.46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, it&#x27;s early, but you said you knew my secret, so I hope you like it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Porky Pig"
+        }
+      ]
+    },
+    {
+      "uuid": "fb29eb99-491d-4f95-867c-f10ef0991b70",
+      "start_time": 997.64,
+      "end_time": 1000.7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A collage made out of assorted photos of me?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "9977d05e-e79f-4822-ab1e-5420c74113e9",
+      "start_time": 1000.7,
+      "end_time": 1004,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What on earth would possess you to make something this creepy?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "5c52ef1f-580b-4dc2-9fb1-6a159e4068d8",
+      "start_time": 1004.54,
+      "end_time": 1008.44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, because that&#x27;s what you specifically told me you wanted for your birthday?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Porky Pig"
+        }
+      ]
+    },
+    {
+      "uuid": "52b979f0-0bb9-45e9-a9b0-1f37d805ab83",
+      "start_time": 1008.7,
+      "end_time": 1009.76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You sent me the photos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Porky Pig"
+        }
+      ]
+    },
+    {
+      "uuid": "94a3d5f3-3f11-4e86-a232-148bede9a8d3",
+      "start_time": 1010.54,
+      "end_time": 1012.96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So you don&#x27;t want to murder me?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "6518bb0e-c9e4-48aa-b844-5e95620fc9ea",
+      "start_time": 1013.42,
+      "end_time": 1014.78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why would I want to murder you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "b7f7c60f-400e-4640-a0d0-54c7eb9542b8",
+      "start_time": 1015.38,
+      "end_time": 1017.38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Only a murderer would ask that question."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "eec2e630-e914-4189-8d50-41234150eafa",
+      "start_time": 1044.992,
+      "end_time": 1045.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speedy?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "4908ad70-bf03-4664-a0a2-f4ed216b91e7",
+      "start_time": 1045.52,
+      "end_time": 1047.08,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What did you do to Speedy?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "17fd4755-2ed9-4223-a11d-302230e9035f",
+      "start_time": 1050.784,
+      "end_time": 1052.512,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Look who&#x27;s got a wallet and keys now, chubby!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "c506fa18-4e82-418f-81aa-24d168420dc1",
+      "start_time": 1150.144,
+      "end_time": 1153.37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hey, Pinky was planning to throw this on your actual birthday, but he called and said"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "767ba0d2-4ac5-45ff-a019-36ca1c63b89a",
+      "start_time": 1153.37,
+      "end_time": 1156.21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "we&#x27;d have to do it tonight because you were getting suspicious."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "ef4cd3fe-c57a-4585-bcd3-23e70e45cb71",
+      "start_time": 1156.63,
+      "end_time": 1158.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You&#x27;re lucky to have such a nice friend."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "507577fe-eac4-4adc-8779-822ab219b10e",
+      "start_time": 1159.55,
+      "end_time": 1160.53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nice friend?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "33596c6f-639d-4958-bfe6-89bc4baccc53",
+      "start_time": 1160.93,
+      "end_time": 1163.136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Or the suburban strangler?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "66c55469-2208-4150-92a2-d158f69edc31",
+      "start_time": 1165.184,
+      "end_time": 1165.696,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que, que?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "d4aa83ca-0ad2-47d2-822f-88be8e95e8a5",
+      "start_time": 1167.104,
+      "end_time": 1168.04,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You&#x27;re not the suburban strangler?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "33bcd962-009a-4353-b7a0-a591d48a61a9",
+      "start_time": 1168.26,
+      "end_time": 1169.7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He trapped me in his home."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "d42c8131-f44a-49ae-bfa6-77d3538e8486",
+      "start_time": 1169.94,
+      "end_time": 1171.82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He locked the door so I couldn&#x27;t escape."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "0567f9c4-6070-4976-9e1f-8fe30513bf84",
+      "start_time": 1172.22,
+      "end_time": 1172.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "1abe8669-a698-48e0-a0ac-9f9cd3900af5",
+      "start_time": 1173.1,
+      "end_time": 1174.36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The door wasn&#x27;t locked."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "86b600b3-b955-4566-8e32-913834a1ad8f",
+      "start_time": 1174.36,
+      "end_time": 1178.44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, then, how come I couldn&#x27;t just open it like this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "84a950bb-0a2d-4979-a095-10267d802b11",
+      "start_time": 1183.584,
+      "end_time": 1181.184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "4283e59e-71bd-49f9-84bc-cbfac2556513",
+      "start_time": 1184.08,
+      "end_time": 1185.1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just pull it, man."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "49e81391-7bda-425b-bcc8-20436dfb3d66",
+      "start_time": 1185.36,
+      "end_time": 1186.36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It&#x27;s not that heavy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "e6980cfe-e784-4ec3-a452-e367838891fb",
+      "start_time": 1186.92,
+      "end_time": 1188.22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kids use it all the time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "328b41dc-4873-45bc-878e-534c16de943b",
+      "start_time": 1188.32,
+      "end_time": 1189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Little kids."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "8f7a91dd-130d-4581-8224-9ead9ddce61f",
+      "start_time": 1189.7,
+      "end_time": 1190.26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, no!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "152597bf-a2c9-4b5d-ab03-820cd6edc988",
+      "start_time": 1192.48,
+      "end_time": 1190.56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "65a9e7c4-fb4b-420a-9fe3-fea5efdf2c81",
+      "start_time": 1194.176,
+      "end_time": 1194.94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It doesn&#x27;t matter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "717dad20-922d-4eac-9c85-bcbfa6c588a6",
+      "start_time": 1195.22,
+      "end_time": 1200.36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What does matter is that you cut the phone line so I couldn&#x27;t call for help."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "6206980c-815e-41dc-9a93-e3a2ee0c08f8",
+      "start_time": 1200.68,
+      "end_time": 1202.56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Are you talking about the phone in the guest room?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "a059b6a9-23cb-4969-8cf4-1329c67b8439",
+      "start_time": 1202.76,
+      "end_time": 1203.68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It&#x27;s an antique."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "e78610e1-dac3-41b2-b904-3b760fc6dbfa",
+      "start_time": 1204.2,
+      "end_time": 1205.66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It&#x27;s just for decoration."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Porky Pig"
+        }
+      ]
+    },
+    {
+      "uuid": "1bab095c-d49e-4bab-8505-7073939a7c64",
+      "start_time": 1205.66,
+      "end_time": 1208.84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then how do you explain the blood on your hands?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "08188de8-5200-4008-9d5e-ea00699b1eff",
+      "start_time": 1209.14,
+      "end_time": 1212.576,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is paint for the banner I made for your party."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Porky Pig"
+        }
+      ]
+    },
+    {
+      "uuid": "5d4eb403-22bc-41aa-8f98-254c8f28d86d",
+      "start_time": 1215.648,
+      "end_time": 1222.73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You may have all these people fooled, but I saw you murder a woman."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "b58dc7d5-b2ad-497b-8aa2-a18ff014c806",
+      "start_time": 1222.91,
+      "end_time": 1223.39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "b88c44c4-72b4-45f3-b3f7-52cc5f8faa75",
+      "start_time": 1224.13,
+      "end_time": 1226.11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With a chainsaw!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "9eb62092-4d54-484e-8a7c-da3a3e907cc6",
+      "start_time": 1226.93,
+      "end_time": 1229.95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was an ice sculpture of you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "4ae03948-817d-4127-af39-0fd0ddfd084b",
+      "start_time": 1235.552,
+      "end_time": 1236.23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What&#x27;s going on?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "18b513b7-ffc7-431a-ac91-fea5c799f341",
+      "start_time": 1236.77,
+      "end_time": 1238.41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That&#x27;s the surprise party."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "77b5bf97-dd5f-4c80-b5b3-f0be1dbbbacf",
+      "start_time": 1238.71,
+      "end_time": 1240.29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I thought that was supposed to be next week."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "1ed31a25-9aa8-4388-8700-8aad2c27be46",
+      "start_time": 1241.09,
+      "end_time": 1241.63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ugh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "6d6c776a-5f21-42c8-b181-194dd42c1e26",
+      "start_time": 1242.41,
+      "end_time": 1244.99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We interrupt this program with a special alert."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Nieuwslezer"
+        }
+      ]
+    },
+    {
+      "uuid": "647f3eb1-33d4-4320-98c0-819d0a77bac1",
+      "start_time": 1245.27,
+      "end_time": 1247.63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Suburban Strangler has been captured."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Nieuwslezer"
+        }
+      ]
+    },
+    {
+      "uuid": "8efb4ae0-0160-438f-a406-e5f06fbaaafe",
+      "start_time": 1253.536,
+      "end_time": 1255.35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You gotta admit there&#x27;s a strong resemblance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "47bc7787-322f-45a7-9845-8cd9e4c97c98",
+      "start_time": 1255.57,
+      "end_time": 1256.576,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Am I right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "bf4da4b3-5d3b-47ea-9d40-aa3fe5be4db7",
+      "start_time": 1262.496,
+      "end_time": 1263.968,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If anyone&#x27;s gonna murder you, it&#x27;s me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "faee46da-7b44-4c07-8942-af52289dea2d",
+      "start_time": 1265.152,
+      "end_time": 1265.888,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What&#x27;s that thing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "36c397c3-f509-40e4-9cb8-9eed36653658",
+      "start_time": 1267.808,
+      "end_time": 1268.27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Don&#x27;t worry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "b6022c24-e78a-427e-94e2-0f22a27c1d9f",
+      "start_time": 1268.31,
+      "end_time": 1269.248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I&#x27;m getting rid of it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "d04e0726-0bc6-41e4-b600-17dd86172ea1",
+      "start_time": 1272,
+      "end_time": 1272.74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I got your pizza."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "104c809e-8033-4cb7-a5c5-980eb1028666",
+      "start_time": 1274.112,
+      "end_time": 1274.63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "08f6848a-e3b7-4dc1-846f-54838b332ccf",
+      "start_time": 1274.85,
+      "end_time": 1277.35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I didn&#x27;t know when you&#x27;d be back, so I ordered Chinese food."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "c0848d3d-f24d-4dc6-ae82-6165bf55d0bd",
+      "start_time": 1277.51,
+      "end_time": 1277.984,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You want some?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "3da5cc10-4177-4d10-a6c7-a51e1e8b2e2e",
+      "start_time": 1279.456,
+      "end_time": 1277.984,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "b2ac8353-3fd3-4fce-a25e-c21b820df104",
+      "start_time": 1279.88,
+      "end_time": 1280.34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "b7c35a77-1baa-444f-ac4e-1739f74fdee8",
+      "start_time": 1280.34,
+      "end_time": 1282.46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can really taste the Kung Pao."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "c1d72bfb-c18f-4906-85e4-8a1418d790c1",
+      "start_time": 1282.64,
+      "end_time": 1283.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It&#x27;s strong."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "33f865ee-09d2-4a5c-8ba8-ab32977d9537",
+      "start_time": 1284.18,
+      "end_time": 1284.26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "b097d2d4-959f-48f9-87ab-73f4d4c8ddf2",
+      "start_time": 1285.02,
+      "end_time": 1285.38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lola Bunny"
+        }
+      ]
+    },
+    {
+      "uuid": "3a52f387-dc8e-4429-bff9-c75430c012a5",
+      "start_time": 1285.54,
+      "end_time": 1287.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh no, you&#x27;re not getting rid of this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "b9b35d72-17b0-42dd-8555-8e2f030f23de",
+      "start_time": 1288.08,
+      "end_time": 1289.952,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I&#x27;m never walking upstairs again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "6db57fc9-5862-472d-9556-f73b839c4af6",
+      "start_time": 1326.688,
+      "end_time": 1327.8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I still think Porky&#x27;s a murderer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    },
+    {
+      "uuid": "3ebdac97-5921-4a6a-b6c4-4c7a91a4bd60",
+      "start_time": 1331.339,
+      "end_time": 1328.096,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Daffy Duck"
+        }
+      ]
+    }
+  ],
   "set": "Default",
   "event_id": "37c4cceb-8927-4292-b34f-d8d0bddf9285",
   "source_id": "5500ecf2-ad7f-4d11-9e26-7a834b990310"
