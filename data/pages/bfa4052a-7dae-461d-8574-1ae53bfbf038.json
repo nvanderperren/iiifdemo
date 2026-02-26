@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "37c4cceb-8927-4292-b34f-d8d0bddf9285",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-02-26T12:40:41.025Z",
   "created_by": "nvanderperren",
   "title": "Looney Tunes",
   "slug": "looney-tunes",
-  "updated_at": "2026-02-26T12:40:41.025Z",
+  "updated_at": "2026-02-26T12:50:44.781Z",
   "updated_by": "nvanderperren",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "37c4cceb-8927-4292-b34f-d8d0bddf9285"
   }
