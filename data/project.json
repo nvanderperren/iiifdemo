@@ -24,11 +24,37 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "personage",
+          "color": "#ADFFD9"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Porky Pig",
+          "category": "personage"
+        },
+        {
+          "tag": "Lola Bunny",
+          "category": "personage"
+        },
+        {
+          "tag": "Bugs Bunny",
+          "category": "personage"
+        },
+        {
+          "tag": "Daffy Duck",
+          "category": "personage"
+        },
+        {
+          "tag": "Nieuwslezer",
+          "category": "personage"
+        }
+      ]
     },
     "created_at": "2026-01-29T16:30:26.087Z",
-    "updated_at": "2026-02-26T12:40:41.038Z",
+    "updated_at": "2026-02-26T12:44:50.708Z",
     "generate_pages_site": true
   },
   "annotations": {},
