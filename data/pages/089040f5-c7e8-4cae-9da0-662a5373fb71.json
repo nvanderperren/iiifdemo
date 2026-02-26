@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "eba76c3a-535b-4858-a38a-dfbd64d0fbac",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-01-29T17:15:55.152Z",
   "created_by": "nvanderperren",
   "title": "Gustav Mahler, Symphony No. 3, CD 1",
   "slug": "gustav-mahler-symphony-no-3-cd-1",
-  "updated_at": "2026-01-29T17:15:55.152Z",
+  "updated_at": "2026-02-26T12:50:41.623Z",
   "updated_by": "nvanderperren",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "eba76c3a-535b-4858-a38a-dfbd64d0fbac"
   }
