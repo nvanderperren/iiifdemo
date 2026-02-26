@@ -6,7 +6,12 @@
       "file_type": "Video",
       "file_url": "https://dn711502.ca.archive.org/0/items/2011-05-11-the-looney-tunes-show/2011-05-11%20---%20The%20Looney%20Tunes%20Show%20S01E25%20The%20Muh-Muh-Muh-Murder.mp4",
       "duration": 1331,
-      "caption_set": [],
+      "caption_set": [
+        {
+          "annotation_page_id": "54cd86c2-7d81-4882-aaf0-09f8ee981934",
+          "speaker_category": "personage"
+        }
+      ],
       "set_sort": []
     }
   },
@@ -29,6 +34,6 @@
   "rights_statement": "https://rightsstatements.org/vocab/InC/1.0/",
   "created_at": "2026-02-26T12:40:40.819Z",
   "created_by": "nvanderperren",
-  "updated_at": "2026-02-26T12:40:40.819Z",
+  "updated_at": "2026-02-26T12:48:56.891Z",
   "updated_by": "nvanderperren"
 }
